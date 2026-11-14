@@ -1,0 +1,5 @@
+{
+  "name": "cyber-themes",
+  "owner": { "name": "local" },
+  "plugins": [{ "name": "cyber-themes", "source": "./" }]
+}
